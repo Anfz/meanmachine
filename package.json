@@ -1,5 +1,5 @@
 {
-  "name": "Mean Machine Test",
+  "name": "meanmachine",
   "version": "0.0.0",
   "description": "You Know Cool Stuff RIght",
   "main": "server.js",
@@ -7,7 +7,7 @@
   "author": "Me Kinda",
   "dependencies": {
     "async": "~0.2.8",
-    "express": "~3.2.4",
+    "express": "^3.2.6",
     "socket.io": "~0.9.14"
   }
 }
