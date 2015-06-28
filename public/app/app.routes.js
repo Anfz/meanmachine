@@ -22,6 +22,7 @@ angular.module('app.routes', ['ngRoute'])
 			controller: 'userController',
 			controllerAs: 'user'
 		})
+		
 
 		// form to create a new user
 		// same view as edit page
